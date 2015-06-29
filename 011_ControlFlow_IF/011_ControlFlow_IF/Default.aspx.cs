@@ -46,7 +46,7 @@ namespace _011_ControlFlow_IF
             {
                 resultLable.Text = "You must be a fun loving person...";
             }
-            else
+            else //must be last in the IF, ElSE IF chain
             {
                 resultLable.Text = "Please select one of the options...";
             }
